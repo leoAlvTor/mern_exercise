@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b33e4cd6-72e9-439a-8f4f-c33e74500171" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/routes/exercies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/routes/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/exercies.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/exercies.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591977644818</updated>
-      <workItem from="1591977646429" duration="6811000" />
+      <workItem from="1591977646429" duration="7421000" />
+      <workItem from="1592054161845" duration="2489000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1591977676173</created>
@@ -90,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591980888706</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit">
+      <created>1592014040128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592014040128</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,17 +107,18 @@
     <MESSAGE value="Added backend folder." />
     <MESSAGE value="Database connection!" />
     <MESSAGE value="Testing models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing models" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="237" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591979998403">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="237" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1591979998403" />
-    <state x="176" y="101" key="CommitChangelistDialog2" timestamp="1591980888625">
+    <state x="176" y="101" key="CommitChangelistDialog2" timestamp="1592058452081">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="176" y="101" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1591980888625" />
+    <state x="176" y="101" key="CommitChangelistDialog2/0.0.1920.1044@0.0.1920.1044" timestamp="1592058452081" />
     <state x="433" y="419" key="Github.ShareDialog" timestamp="1591977687524">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
@@ -121,5 +127,9 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="80" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1044@0.0.1920.1044" timestamp="1591980896525" />
+    <state x="159" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1592054180599">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="159" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1592054180599" />
   </component>
 </project>
